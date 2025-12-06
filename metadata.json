@@ -1,0 +1,8 @@
+{
+  "name": "RESCATE1 SUMA 061225-8:45am",
+  "description": "Asistente médico con IA para soporte en tiempo real",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
