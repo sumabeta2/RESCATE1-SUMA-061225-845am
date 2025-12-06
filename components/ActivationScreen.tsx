@@ -1,7 +1,7 @@
 // components/ActivationScreen.tsx
 import React, { useState } from 'react';
 import { Eye, EyeOff, Activity, AlertCircle } from 'lucide-react';
-import { getDeviceId } from '../utils/device-id'; // Corrected import path
+import { getDeviceId } from '../utils/device-id';
 import { AccessCode } from '../types';
 
 interface ActivationScreenProps {
